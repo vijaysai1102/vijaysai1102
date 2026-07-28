@@ -72,7 +72,7 @@ A university campus populated by NPCs that remember previous conversations, carr
 
 **Engineering note:** memory and relationship state live in SQLite rather than in the prompt window, so characters stay consistent across sessions instead of resetting whenever the context clears.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=streamlit&logoColor=white)](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/) &nbsp;[Source →](https://github.com/vijaysai1102/AI_NPC_Agent)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=streamlit&logoColor=white)](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/) &nbsp;[Source →](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/)
 
 ### [2026 F1 Spec RAG Agent](https://github.com/vijaysai1102/2026_F1_Spec_RAG_Agent) — RAG with enforced citations
 
@@ -147,5 +147,13 @@ Pneumonia detection from chest X-rays using a CNN and fine-tuned ResNet-50, depl
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaysai1102&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&title_color=0D9488&line=0D9488&point=FFFFFF&area=true&area_color=0D9488&hide_border=true&radius=6" alt="Contribution activity graph for vijaysai1102" width="100%" />
+
+</div>
 
 
