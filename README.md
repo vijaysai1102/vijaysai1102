@@ -27,7 +27,7 @@ Right now I'm focused on **agentic AI**: LLM systems that operate on their own i
 
 ## Experience
 
-**ML Research Assistant** · University of North Texas — Denton, TX · *Current*
+**ML Research Assistant** · University of North Texas — Denton, TX · *2025-2026*
 - Designed and optimized CNN & Transformer architectures in PyTorch for **15% accuracy gains**
 - Applied quantization and pruning to reduce **inference latency by 30%**
 - Built automated ETL pipelines over **500GB+** of unstructured research data, **+40% throughput**
@@ -97,35 +97,45 @@ Pneumonia detection from chest X-rays using a CNN and fine-tuned ResNet-50, depl
 **Also worth a look** — [Bayesian Marketing Mix Model](https://github.com/vijaysai1102/bayesian-marketing-mix-model): PyMC and MCMC causal inference that estimates channel ROI *with uncertainty* and simulates budget reallocation · [AI NPC Agent](https://github.com/vijaysai1102/AI_NPC_Agent): LLM characters with persistent memory and evolving relationships ([live](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/)) · [New-Grad Job Scanner](https://github.com/vijaysai1102/newgrad-job-scanner): scans ~87k postings across 1,300+ ATS boards, dating each from the ATS's own first-published field
 
 
-### 🛠️ Tech Arsenal
+## Tech Stack
 
-<div align="center">
+**GenAI & LLM Systems**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-3C3C3D?style=flat-square)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-334155?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-334155?style=flat-square)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20%2F%20Llama-334155?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1F2937?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs%20%C2%B7%20ChromaDB-334155?style=flat-square)
 
+**Machine Learning & Deep Learning**
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-334155?style=flat-square)
+![PyMC](https://img.shields.io/badge/PyMC%20%C2%B7%20Bayesian-334155?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
----
+**Data Engineering**
 
-<div align="center">
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ⚡ *Building intelligent systems that scale — from data pipelines to production ML*
+**Cloud, MLOps & Tooling**
 
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 
