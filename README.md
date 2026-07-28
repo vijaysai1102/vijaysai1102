@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=0D9488&center=true&vCenter=true&width=650&lines=AI+%2F+Machine+Learning+Engineer;Agentic+AI%2C+LLMs+%26+RAG+Systems;Data+Engineering+at+Production+Scale;M.S.+Computer+Science+%40+UNT;2%2B+Years+Building+ML+in+Production" alt="AI / Machine Learning Engineer · Agentic AI, LLMs and RAG Systems · Data Engineering at Production Scale · M.S. Computer Science at UNT" />
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full--Time%20Roles-0D9488?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available%20Now%20%C2%B7%20Full--Time-0D9488?style=flat-square)
 ![Location](https://img.shields.io/badge/Denton%2C%20TX-United%20States-475569?style=flat-square&logo=googlemaps&logoColor=white)
-![Education](https://img.shields.io/badge/M.S.%20Computer%20Science-UNT%20%C2%B7%20GPA%204.0-475569?style=flat-square&logo=googlescholar&logoColor=white)
+![Education](https://img.shields.io/badge/M.S.%20Computer%20Science-UNT%20%C2%B7%20May%202026%20%C2%B7%20GPA%204.0-475569?style=flat-square&logo=googlescholar&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-omega-six-j3zgm8e9ul.vercel.app)
 [![Resume](https://img.shields.io/badge/Resume-B91C1C?style=flat-square&logo=readdotcv&logoColor=white)](https://portfolio-omega-six-j3zgm8e9ul.vercel.app/#resume)
@@ -19,7 +19,7 @@
 
 ## About
 
-I'm an **AI / Machine Learning Engineer with 2+ years of industry experience** shipping models that run in production, not just in notebooks. I'm currently an ML Research Assistant at the **University of North Texas** (M.S. Computer Science, 4.0 GPA), and I previously worked as a **Data Scientist at Kanerika** and a **Data Engineer at Saras Analytics**.
+I'm an **AI / Machine Learning Engineer with 2+ years of industry experience** shipping models that run in production, not just in notebooks. I completed my **M.S. in Computer Science at the University of North Texas** in May 2026 with a 4.0 GPA, where I worked as an ML Research Assistant, and before that I was a **Data Scientist at Kanerika** and a **Data Engineer at Saras Analytics**.
 
 My work covers both halves of the problem. On the model side, I design and optimize CNNs, Transformers, and ensembles, using quantization and pruning to cut inference latency by 30%. On the infrastructure side, I build the pipelines they depend on, from Kafka ELT feeding Snowflake to ETL processing 500GB+ of unstructured data.
 
@@ -27,7 +27,7 @@ Right now I'm focused on **agentic AI**: LLM systems that operate on their own i
 
 ## Experience
 
-**ML Research Assistant** · University of North Texas - Denton, TX · *2025-2026*
+**ML Research Assistant** · University of North Texas - Denton, TX · *2025 - May 2026*
 - Designed and optimized CNN & Transformer architectures in PyTorch for **15% accuracy gains**
 - Applied quantization and pruning to reduce **inference latency by 30%**
 - Built automated ETL pipelines over **500GB+** of unstructured research data, **+40% throughput**
@@ -64,6 +64,16 @@ Five LLM specialists reason over an XGBoost ensemble's SI=F and SLV forecast, an
 
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-0D9488?style=flat-square&logo=githubpages&logoColor=white)](https://vijaysai1102.github.io/silver-predictor/) &nbsp;[Source →](https://github.com/vijaysai1102/silver-predictor)
 
+### [AI NPC Agent](https://github.com/vijaysai1102/AI_NPC_Agent) — LLM characters with persistent memory
+
+`Groq / Llama 3.1` `Stateful Agents` `Emotion Modeling` `SQLite` `Streamlit`
+
+A university campus populated by NPCs that remember previous conversations, carry emotional state, and let relationships evolve across sessions.
+
+**Engineering note:** memory and relationship state live in SQLite rather than in the prompt window, so characters stay consistent across sessions instead of resetting whenever the context clears.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=streamlit&logoColor=white)](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/) &nbsp;[Source →](https://github.com/vijaysai1102/AI_NPC_Agent)
+
 ### [2026 F1 Spec RAG Agent](https://github.com/vijaysai1102/2026_F1_Spec_RAG_Agent) — RAG with enforced citations
 
 `RAG` `LangChain` `ChromaDB` `Gemini API` `Streamlit`
@@ -94,7 +104,7 @@ Pneumonia detection from chest X-rays using a CNN and fine-tuned ResNet-50, depl
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Vijaysai16/pneumonet) &nbsp;[Source →](https://github.com/vijaysai1102/Biomedical_Image_Classifier)
 
-**Also worth a look** — [Bayesian Marketing Mix Model](https://github.com/vijaysai1102/bayesian-marketing-mix-model): PyMC and MCMC causal inference that estimates channel ROI *with uncertainty* and simulates budget reallocation · [AI NPC Agent](https://github.com/vijaysai1102/AI_NPC_Agent): LLM characters with persistent memory and evolving relationships ([live](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/)) · [New-Grad Job Scanner](https://github.com/vijaysai1102/newgrad-job-scanner): scans ~87k postings across 1,300+ ATS boards, dating each from the ATS's own first-published field
+**Also worth a look** — [Bayesian Marketing Mix Model](https://github.com/vijaysai1102/bayesian-marketing-mix-model): PyMC and MCMC causal inference that estimates channel ROI *with uncertainty* and simulates budget reallocation · [New-Grad Job Scanner](https://github.com/vijaysai1102/newgrad-job-scanner): scans ~87k postings across 1,300+ ATS boards, dating each from the ATS's own first-published field
 
 
 ## Tech Stack
