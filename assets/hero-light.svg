@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="72" viewBox="0 0 820 72" role="img" aria-label="building autonomous AI systems that run without me">
+  <title>building autonomous AI systems that run without me</title>
+  <defs>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="820" height="72">
+        <animate attributeName="width" values="0;820" dur="2.4s" begin="0s" fill="freeze"
+                 calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#reveal)">
+    <text x="2" y="34" font-size="20"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
+      <tspan fill="#6B7280">$ </tspan><tspan fill="#1F2937">building autonomous AI systems that run </tspan><tspan fill="#0D9488">without me.</tspan><tspan fill="#0D9488">&#9612;<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" begin="2.4s" repeatCount="indefinite" /></tspan>
+    </text>
+  </g>
+
+  <line x1="2" y1="56" x2="820" y2="56" stroke="#D0D7DE" stroke-width="1.5">
+    <animate attributeName="x2" values="2;820" dur="2.4s" begin="0s" fill="freeze"
+             calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1" />
+  </line>
+</svg>

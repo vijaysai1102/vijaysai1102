@@ -4,7 +4,10 @@
 
 **AI / Machine Learning Engineer** &nbsp;·&nbsp; Agentic AI &amp; GenAI Systems &nbsp;·&nbsp; Data Engineering
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=0D9488&center=true&vCenter=true&width=650&lines=AI+%2F+Machine+Learning+Engineer;Agentic+AI%2C+LLMs+%26+RAG+Systems;Data+Engineering+at+Production+Scale;M.S.+Computer+Science+%40+UNT;2%2B+Years+Building+ML+in+Production" alt="AI / Machine Learning Engineer · Agentic AI, LLMs and RAG Systems · Data Engineering at Production Scale · M.S. Computer Science at UNT" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <img src="./assets/hero-light.svg" alt="building autonomous AI systems that run without me" width="760" />
+</picture>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available%20Now%20%C2%B7%20Full--Time-0D9488?style=flat-square)
 ![Location](https://img.shields.io/badge/Denton%2C%20TX-United%20States-475569?style=flat-square&logo=googlemaps&logoColor=white)
@@ -47,8 +50,8 @@ $ cat now.md
 
 ▸ shipping   silver-predictor  —  autonomous multi-agent forecaster
              XGBoost ensemble + 5 LLM specialists, nightly on Actions
+▸ shipping   AI NPC Agent  —  stateful LLM characters with memory
 ▸ building   F1 Spec RAG Agent  —  article-level citation accuracy
-▸ learning   LLM evaluation & observability for agentic systems
 ▸ open to    AI/ML · GenAI · Data Engineering roles (US, full-time)
 ```
 
@@ -72,7 +75,7 @@ A university campus populated by NPCs that remember previous conversations, carr
 
 **Engineering note:** memory and relationship state live in SQLite rather than in the prompt window, so characters stay consistent across sessions instead of resetting whenever the context clears.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=streamlit&logoColor=white)](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/) &nbsp;[Source →](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=streamlit&logoColor=white)](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/) &nbsp;[Source →](https://github.com/vijaysai1102/AI_NPC_Agent)
 
 ### [2026 F1 Spec RAG Agent](https://github.com/vijaysai1102/2026_F1_Spec_RAG_Agent) — RAG with enforced citations
 
@@ -153,6 +156,34 @@ Pneumonia detection from chest X-rays using a CNN and fine-tuned ResNet-50, depl
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaysai1102&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&title_color=0D9488&line=0D9488&point=FFFFFF&area=true&area_color=0D9488&hide_border=true&radius=6" alt="Contribution activity graph for vijaysai1102" width="100%" />
+
+<img src="./assets/metrics.svg" alt="Most used languages and code volume, generated daily in this repository" width="480" />
+
+</div>
+
+## Education
+
+**M.S. Computer Science** · University of North Texas, Denton TX · *Graduated May 2026* · **GPA 4.0 / 4.0**
+
+Certifications: Model Context Protocol (MCP) — Hands-On with Agentic AI · Machine Learning with Python: Foundations · ETL in Python and SQL
+
+## Let's Talk
+
+I'm available immediately for full-time **AI / Machine Learning Engineer**, **GenAI Engineer**, and **Data Engineer** roles in the US, and open to relocation. The fastest way to reach me is email — I reply to everything.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/vijaysaichigullapally1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijaysaichigullapally1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-sai-chigullapally-63558521b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-omega-six-j3zgm8e9ul.vercel.app)
+
+<sub>
+
+*Building AI systems that run without me.*
+
+![Profile views](https://komarev.com/ghpvc/?username=vijaysai1102&style=flat-square&color=475569&label=Profile%20views&abbreviated=true)
+
+</sub>
 
 </div>
 

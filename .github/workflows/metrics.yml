@@ -23,6 +23,7 @@ jobs:
           base: ""
           config_timezone: America/Chicago
           config_display: regular
+          config_theme: dark
 
           plugin_languages: yes
           plugin_languages_sections: most-used
