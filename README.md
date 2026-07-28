@@ -14,7 +14,7 @@
 ![Education](https://img.shields.io/badge/M.S.%20Computer%20Science-UNT%20%C2%B7%20May%202026%20%C2%B7%20GPA%204.0-475569?style=flat-square&logo=googlescholar&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-omega-six-j3zgm8e9ul.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-B91C1C?style=flat-square&logo=readdotcv&logoColor=white)](https://portfolio-omega-six-j3zgm8e9ul.vercel.app/#resume)
+[![Resume](https://img.shields.io/badge/Resume-B91C1C?style=flat-square&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1tUNtFTHtj5DMwZP_uRJAhySRASs1FXyz/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-sai-chigullapally-63558521b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijaysaichigullapally1@gmail.com)
 
