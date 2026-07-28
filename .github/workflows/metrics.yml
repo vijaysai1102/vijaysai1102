@@ -11,9 +11,10 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     steps:
-      - name: Generate language and volume panel
-        uses: lowlighter/metrics@latest
+      - name: Generate language panel
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
@@ -24,12 +25,12 @@ jobs:
           config_timezone: America/Chicago
           config_display: regular
           config_theme: dark
+          retries: 2
+          retries_delay: 30
 
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 6
           plugin_languages_ignored: html, css, scss, tex, dockerfile, jupyter notebook
-
-          plugin_lines: yes
-          plugin_lines_sections: base
+          plugin_languages_indepth: no
