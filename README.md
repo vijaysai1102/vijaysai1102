@@ -118,6 +118,7 @@ Pneumonia detection from chest X-rays using a CNN and fine-tuned ResNet-50, depl
 ![RAG](https://img.shields.io/badge/RAG-334155?style=flat-square)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-334155?style=flat-square)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1F2937?style=flat-square&logo=anthropic&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%20%2F%20Llama-334155?style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1F2937?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![Vector DBs](https://img.shields.io/badge/Vector%20DBs%20%C2%B7%20ChromaDB-334155?style=flat-square)
