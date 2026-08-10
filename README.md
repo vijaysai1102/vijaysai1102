@@ -30,7 +30,7 @@ Right now I'm focused on **agentic AI**: LLM systems that operate on their own i
 
 ## Experience
 
-**ML Research Assistant** · University of North Texas - Denton, TX · *2025 - May 2026*
+**ML Research Assistant** · University of North Texas - Denton, TX · *Jan 2025 - May 2026*
 - Designed and optimized CNN & Transformer architectures in PyTorch for **15% accuracy gains**
 - Applied quantization and pruning to reduce **inference latency by 30%**
 - Built automated ETL pipelines over **500GB+** of unstructured research data, **+40% throughput**
