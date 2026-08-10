@@ -35,11 +35,11 @@ Right now I'm focused on **agentic AI**: LLM systems that operate on their own i
 - Applied quantization and pruning to reduce **inference latency by 30%**
 - Built automated ETL pipelines over **500GB+** of unstructured research data, **+40% throughput**
 
-**Data Scientist** · Kanerika - Hyderabad, India · *2024*
+**Data Scientist** · Kanerika - Hyderabad, India · *Dec 2023 - Jun 2024*
 - Built hybrid LSTM + Isolation Forest ensembles for real-time anomaly detection across **500K+ daily telemetry records**
 - Improved rare-event recall by **20%** with SMOTE; cut false positives **15%** across 200+ concurrent sensor streams
 
-**Data Engineer** · Saras Analytics - Hyderabad, India · *2023*
+**Data Engineer** · Saras Analytics - Hyderabad, India · *Apr 2023 - Nov 2023*
 - Engineered high-throughput ELT pipelines with **Apache Kafka** consolidating **200+ e-commerce sources** into **Snowflake**, reducing ingestion latency **40%**
 - Developed **70+ dbt models** transforming raw commerce data into structured analytics layers
 
