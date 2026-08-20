@@ -36,59 +36,6 @@ $ cat now.md
 ▸ open to    AI/ML · GenAI · Data Engineering roles (US, full-time)
 ```
 
-## Featured Projects
-
-### [Silver Predictor](https://github.com/vijaysai1102/silver-predictor) — autonomous multi-agent forecaster
-
-`XGBoost` `Groq / Llama` `Multi-Agent` `GitHub Actions` `Time Series`
-
-Five LLM specialists reason over an XGBoost ensemble's SI=F and SLV forecast, and the pipeline publishes a dated prediction every night with no human in the loop.
-
-**Engineering note:** this is a scheduled production system rather than a notebook — every run is dated and archived, so past predictions can be scored against what actually happened.
-
-[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-0D9488?style=flat-square&logo=githubpages&logoColor=white)](https://vijaysai1102.github.io/silver-predictor/) &nbsp;[Source →](https://github.com/vijaysai1102/silver-predictor)
-
-### [AI NPC Agent](https://github.com/vijaysai1102/AI_NPC_Agent) — LLM characters with persistent memory
-
-`Groq / Llama 3.1` `Stateful Agents` `Emotion Modeling` `SQLite` `Streamlit`
-
-A university campus populated by NPCs that remember previous conversations, carry emotional state, and let relationships evolve across sessions.
-
-**Engineering note:** memory and relationship state live in SQLite rather than in the prompt window, so characters stay consistent across sessions instead of resetting whenever the context clears.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=streamlit&logoColor=white)](https://vijaysai1102-ai-npc-agent-app-fjs6j1.streamlit.app/) &nbsp;[Source →](https://github.com/vijaysai1102/AI_NPC_Agent)
-
-### [2026 F1 Spec RAG Agent](https://github.com/vijaysai1102/2026_F1_Spec_RAG_Agent) — RAG with enforced citations
-
-`RAG` `LangChain` `ChromaDB` `Gemini API` `Streamlit`
-
-Answers technical questions about the 2026 FIA Formula 1 Technical Regulations with precise Article-number citations, through both a CLI and a Streamlit interface.
-
-**Engineering note:** citations are enforced, not hoped for — every answer must ground itself in a retrieved article, which is the difference between a demo chatbot and a tool an engineer would actually trust.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=streamlit&logoColor=white)](https://f1-2026-rag-agent.streamlit.app/) &nbsp;[Source →](https://github.com/vijaysai1102/2026_F1_Spec_RAG_Agent)
-
-### [WeatherScope AI](https://github.com/vijaysai1102/WeatherScope-AI) — end-to-end forecasting pipeline
-
-`Prophet` `XGBoost` `SHAP` `Anomaly Detection` `Streamlit`
-
-Global weather trend forecasting and spatial climate analysis, covering the full path from ingestion and EDA through forecasting, anomaly detection, and an interactive app.
-
-**Engineering note:** Prophet and XGBoost are evaluated against each other rather than assumed, and SHAP supplies attribution — so the forecast ships with an explanation instead of a bare number.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=streamlit&logoColor=white)](https://weatherscope-ai.streamlit.app/) &nbsp;[Source →](https://github.com/vijaysai1102/WeatherScope-AI)
-
-### [Pneumonia Detection](https://github.com/vijaysai1102/Biomedical_Image_Classifier) — explainable medical imaging
-
-`PyTorch` `ResNet-50` `Transfer Learning` `Grad-CAM` `SHAP` `LIME`
-
-Pneumonia detection from chest X-rays using a CNN and fine-tuned ResNet-50, deployed on Hugging Face Spaces.
-
-**Engineering note:** three independent explainability methods corroborate each prediction, which is the working bar for clinical ML — an unexplained output is an unusable one.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-0D9488?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/Vijaysai16/pneumonet) &nbsp;[Source →](https://github.com/vijaysai1102/Biomedical_Image_Classifier)
-
-**Also worth a look** — [Bayesian Marketing Mix Model](https://github.com/vijaysai1102/bayesian-marketing-mix-model): PyMC and MCMC causal inference that estimates channel ROI *with uncertainty* and simulates budget reallocation · [New-Grad Job Scanner](https://github.com/vijaysai1102/newgrad-job-scanner): scans ~87k postings across 1,300+ ATS boards, dating each from the ATS's own first-published field
 
 
 ## Tech Stack
@@ -140,6 +87,18 @@ Pneumonia detection from chest X-rays using a CNN and fine-tuned ResNet-50, depl
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaysai1102&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&title_color=0D9488&line=0D9488&point=FFFFFF&area=true&area_color=0D9488&hide_border=true&radius=6" alt="Contribution activity graph for vijaysai1102" width="100%" />
 
 <img src="./assets/metrics.svg" alt="Most used languages and code volume, generated daily in this repository" width="480" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijaysai1102/vijaysai1102/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijaysai1102/vijaysai1102/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vijaysai1102/vijaysai1102/output/github-snake.svg"/>
+</picture>
 
 </div>
 
