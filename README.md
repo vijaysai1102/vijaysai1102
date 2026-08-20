@@ -21,7 +21,7 @@
 
 ## About
 
-I'm an **AI / Machine Learning Engineer** who recently completed my **M.S. in Computer Science at the University of North Texas** (4.0 GPA). I build end-to-end intelligent systems, focusing on **agentic AI**, autonomous LLM workflows, and data pipelines that run reliably in production. My work spans designing and optimizing deep learning architectures, time-series forecasting models, and scheduled autonomous multi-agent systems.
+I'm Vijay Sai Chigullapally, recently completed my M.S. in Computer Science at the University of North Texas (4.0 GPA). I build end-to-end intelligent systems, focusing on agentic AI, autonomous LLM workflows, and data pipelines that run reliably in production. My work spans designing and optimizing deep learning architectures, data pipelines and scheduled autonomous multi-agent systems.
 
 ## Currently
 
