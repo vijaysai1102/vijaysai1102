@@ -22,36 +22,17 @@
 
 ## About
 
-I'm an **AI / Machine Learning Engineer with 2+ years of industry experience** shipping models that run in production, not just in notebooks. I completed my **M.S. in Computer Science at the University of North Texas** in May 2026 with a 4.0 GPA, where I worked as an ML Research Assistant, and before that I was a **Data Scientist at Kanerika** and a **Data Engineer at Saras Analytics**.
-
-My work covers both halves of the problem. On the model side, I design and optimize CNNs, Transformers, and ensembles, using quantization and pruning to cut inference latency by 30%. On the infrastructure side, I build the pipelines they depend on, from Kafka ELT feeding Snowflake to ETL processing 500GB+ of unstructured data.
-
-Right now I'm focused on **agentic AI**: LLM systems that operate on their own instead of waiting for someone to click "run." My silver-price predictor is the clearest example: five LLM specialists reason over an XGBoost ensemble's forecast and publish the result every night, entirely unattended, on GitHub Actions.
-
-## Experience
-
-**ML Research Assistant** · University of North Texas - Denton, TX · *Jan 2025 - May 2026*
-- Designed and optimized CNN & Transformer architectures in PyTorch for **15% accuracy gains**
-- Applied quantization and pruning to reduce **inference latency by 30%**
-- Built automated ETL pipelines over **500GB+** of unstructured research data, **+40% throughput**
-
-**Data Scientist** · Kanerika - Hyderabad, India · *Dec 2023 - Jun 2024*
-- Built hybrid LSTM + Isolation Forest ensembles for real-time anomaly detection across **500K+ daily telemetry records**
-- Improved rare-event recall by **20%** with SMOTE; cut false positives **15%** across 200+ concurrent sensor streams
-
-**Data Engineer** · Saras Analytics - Hyderabad, India · *Apr 2023 - Nov 2023*
-- Engineered high-throughput ELT pipelines with **Apache Kafka** consolidating **200+ e-commerce sources** into **Snowflake**, reducing ingestion latency **40%**
-- Developed **70+ dbt models** transforming raw commerce data into structured analytics layers
+I'm an **AI / Machine Learning Engineer** who recently completed my **M.S. in Computer Science at the University of North Texas** (4.0 GPA). I build end-to-end intelligent systems, focusing on **agentic AI**, autonomous LLM workflows, and data pipelines that run reliably in production. My work spans designing and optimizing deep learning architectures, time-series forecasting models, and scheduled autonomous multi-agent systems.
 
 ## Currently
 
 ```console
 $ cat now.md
 
-▸ shipping   silver-predictor  —  autonomous multi-agent forecaster
-             XGBoost ensemble + 5 LLM specialists, nightly on Actions
-▸ shipping   AI NPC Agent  —  stateful LLM characters with memory
-▸ building   F1 Spec RAG Agent  —  article-level citation accuracy
+▸ building   Megatron  —  desktop control center for Claude Code skills
+             Electron 39 + React 19 + SQLite, local-first linter & indexer
+▸ shipping   PingBack  —  desktop alerts for AI coding agents (npm: pingback-cli)
+             background monitor alerting when Claude Code needs attention
 ▸ open to    AI/ML · GenAI · Data Engineering roles (US, full-time)
 ```
 
