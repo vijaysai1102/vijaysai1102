@@ -83,7 +83,7 @@ $ cat now.md
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijaysai1102&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&title_color=0D9488&line=0D9488&point=FFFFFF&area=true&area_color=0D9488&hide_border=true&radius=6" alt="Contribution activity graph for vijaysai1102" width="100%" />
+<img src="./assets/activity-graph.svg" alt="Contribution activity graph for vijaysai1102" width="100%" />
 
 <img src="./assets/metrics.svg" alt="Most used languages and code volume, generated daily in this repository" width="480" />
 
