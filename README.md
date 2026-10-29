@@ -13,8 +13,6 @@
 ![Location](https://img.shields.io/badge/Denton%2C%20TX-United%20States-475569?style=flat-square&logo=googlemaps&logoColor=white)
 ![Education](https://img.shields.io/badge/M.S.%20Computer%20Science-UNT%20%C2%B7%20May%202026%20%C2%B7%20GPA%204.0-475569?style=flat-square&logo=googlescholar&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-omega-six-j3zgm8e9ul.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-sai-chigullapally-63558521b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijaysaichigullapally1@gmail.com)
 
 </div>
@@ -114,8 +112,6 @@ I'm available immediately for full-time **AI / Machine Learning Engineer**, **Ge
 <div align="center">
 
 [![Email](https://img.shields.io/badge/vijaysaichigullapally1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijaysaichigullapally1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-sai-chigullapally-63558521b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-omega-six-j3zgm8e9ul.vercel.app)
 
 <sub>
 
